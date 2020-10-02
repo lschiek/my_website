@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://schiekluca-portfolio.netlify.app/"
+baseURL = "https://schiekluca-portfolio.netlify.app/"
 languageCode = "en-us"
 title = "Luca Schiek"
 theme = "forty"
