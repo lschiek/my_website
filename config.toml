@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "http://schiekluca-portfolio.netlify.app/"
 languageCode = "en-us"
-title = "Portfolio website for Kostis Christodoulou"
+title = "Luca Schiek"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
